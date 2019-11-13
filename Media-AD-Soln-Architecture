@@ -1,1 +1,27 @@
-<mxfile host="www.draw.io" modified="2019-11-13T06:53:30.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" version="12.2.4" etag="FnKvhXJuT2dGHPc7eNXx" type="github"><diagram id="to4zLRRu3Dgh3rXnxJeJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-13T06:59:47.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="BViPx6O8lDRan2PV8PAa" version="12.2.4" type="github" pages="1">
+  <diagram id="to4zLRRu3Dgh3rXnxJeJ" name="Page-1">
+    <mxGraphModel dx="1186" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="rj8M6hNBCgFEuX0jVbO4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rj8M6hNBCgFEuX0jVbO4-1" target="rj8M6hNBCgFEuX0jVbO4-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="rj8M6hNBCgFEuX0jVbO4-5" value="S3 Archieve Storage" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="rj8M6hNBCgFEuX0jVbO4-3">
+          <mxGeometry x="-0.2011" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rj8M6hNBCgFEuX0jVbO4-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="50" height="53.42" as="geometry"/>
+        </mxCell>
+        <mxCell id="rj8M6hNBCgFEuX0jVbO4-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glacier;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="50" height="53.43" as="geometry"/>
+        </mxCell>
+        <mxCell id="rj8M6hNBCgFEuX0jVbO4-4" value="users" style="outlineConnect=0;strokeColor=#A50040;fillColor=#d80073;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="50" height="55.56" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
