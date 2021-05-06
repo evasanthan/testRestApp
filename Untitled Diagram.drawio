@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T07:32:08.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="13.9.2" etag="qR3eAUnLRBua2oljK-VR" type="github"><diagram id="th_Zk1luGBU-Te19e8s3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-06T13:29:30.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Tka1bfMdOSEndeKqj7p3" version="13.9.2" type="github">
+  <diagram id="th_Zk1luGBU-Te19e8s3" name="Page-1">
+    <mxGraphModel dx="786" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pPb0B7HONQD83MCvsHby-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPb0B7HONQD83MCvsHby-1" target="pPb0B7HONQD83MCvsHby-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-8" value="25%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPb0B7HONQD83MCvsHby-5">
+          <mxGeometry x="0.0242" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pPb0B7HONQD83MCvsHby-1" target="pPb0B7HONQD83MCvsHby-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-7" value="Weighed&amp;nbsp; Based Internal LB Routing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPb0B7HONQD83MCvsHby-6">
+          <mxGeometry x="-0.533" relative="1" as="geometry">
+            <mxPoint x="46" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-9" value="75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pPb0B7HONQD83MCvsHby-6">
+          <mxGeometry x="-0.0051" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-1" value="Route 53 DNS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
+          <mxGeometry x="170" y="132" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-2" value="Rancher Inernal Classic LB URL" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.classic_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="pPb0B7HONQD83MCvsHby-3" value="Kubernetes ALB Internal URL" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="69" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
