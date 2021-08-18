@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T15:50:25.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NcrlKIFFnL4RrH7TdN6-" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T15:51:04.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="RXi8DkMOQXkPvoVoAbCh" version="14.9.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1636" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XDlzX5ACy_mruo7GVJDr-12" value="PaymentAgreementServie" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="620" y="60" width="280" height="550" as="geometry" />
+          <mxGeometry x="620" y="60" width="170" height="550" as="geometry" />
         </mxCell>
         <mxCell id="XDlzX5ACy_mruo7GVJDr-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="XDlzX5ACy_mruo7GVJDr-12">
           <mxGeometry x="65" y="235" width="10" height="45" as="geometry" />
